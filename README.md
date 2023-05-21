@@ -1,8 +1,16 @@
-### Matthew Winailan here! 👋
-- Aspiring software engineer, interested in AI and ML
-- Computer Science Student in Simon Fraser University
+### Matthew here! 👋
+- Aspiring software engineer, interested in WebDev, AI, and ML.
+- Computer Science at Simon Fraser University
 
 ### I (love to) work with
+
+javascript
+react
+c++
+python
+typescript
+figma
+
 
 <!--
 **mwinailan/mwinailan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
