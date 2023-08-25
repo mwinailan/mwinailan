@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate Full-Stack developer based in North America</h3>
+<h3 align="center">Full-Stack developer based in North America</h3>
 
 - 🔭 I’m currently working on [Mulai Coding](https://www.mulaicoding.id/)
 
