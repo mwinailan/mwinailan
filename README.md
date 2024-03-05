@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">Full-Stack developer based in Vancouver</h3>
 
-- 🔭 I’m currently working on [Mulai Coding](https://www.mulaicoding.id/)
+- 🔭 I’m currently working on [Mulai Coding](https://www.mulaicoding.com/)
 
 - 📫 How to reach me **hello@mwinailan.io**
 
